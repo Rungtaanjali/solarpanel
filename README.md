@@ -1,2 +1,1 @@
-# solarpanel
-solar panel portfolio
+# solar-panel
